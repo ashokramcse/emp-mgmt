@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ashokramcse/emp-mgmt/issues"
   },
-  "homepage": "https://github.com/ashokramcse/emp-mgmt#readme"
+  "homepage": "https://github.com/ashokramcse/emp-mgmt#readme",
+  "dependencies": {
+    "mongodb": "^3.0.2"
+  }
 }
